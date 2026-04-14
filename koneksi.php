@@ -12,4 +12,5 @@ if (!koneksi) {
 }
 
 echo "coba aja";
+echo "gitu aja";
 ?>
