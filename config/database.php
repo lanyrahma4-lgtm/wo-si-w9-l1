@@ -3,7 +3,7 @@ class Database {
     private $host = "localhost";
     private $user = "root";
     private $pass = "";
-    private $db = "db_kampus";
+    private $db = "wsi9";
 
     public $conn;
     public function __construct() {
